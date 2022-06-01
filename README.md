@@ -8,4 +8,5 @@ tiene hasta comentarios y código descartado, pero funcionar funciona, ya lo act
 uso:
 
 pip install requests
+#-
 pip install pycountry
